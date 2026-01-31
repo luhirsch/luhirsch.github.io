@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: WIP
 
 profile:
   align: right
@@ -26,4 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-WIP
+# 🚧 Work in Progress
+I'm currently building the site. Come back soon!
+
+You can reach me at MyFirstName.MyLastName (at) ed.ac.uk
