@@ -12,6 +12,7 @@ profile:
   more_info: >
     <p>Lucas.Hirsch(at)ed.ac.uk</p>
     <p>Edinburgh, UK</p>
+    <p>Buenos Aires, Argentina</p>
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,3 +32,7 @@ latest_posts:
 I'm currently building the site. Come back soon!
 
 You can reach me at _ MyFirstName.MyLastName (at) ed.ac.uk
+
+Welcome to yet another academic web page. I hope you find this one slightly interesting.
+
+I am a PhD student at bla doing bla
