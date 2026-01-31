@@ -30,4 +30,4 @@ latest_posts:
 # 🚧 Work in Progress
 I'm currently building the site. Come back soon!
 
-You can reach me at: MyFirstName.MyLastName (at) ed.ac.uk
+You can reach me at _ MyFirstName.MyLastName (at) ed.ac.uk
