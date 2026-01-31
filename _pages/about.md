@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
+subtitle: Welcome to yet another academic webpage. <br><small>Hopefully slightly a interesting one</small></br>
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Machine learning PhD student at the University of Edinburgh
 
 profile:
   align: right
@@ -28,11 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# 🚧 Work in Progress
-I'm currently building the site. Come back soon!
+I am a Machine Learning PhD student at the University of Edinburgh, supervised by [Mike Davies](https://eng.ed.ac.uk/about/people/professor-michael-e-davies), working on data driven sensing and imaging with a focus on methods that work well in low-data scenarios.
 
-You can reach me at _ MyFirstName.MyLastName (at) ed.ac.uk
+Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en), developing optical non-destructive testing systems. Before that, I researched [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the University of Buenos Aires.
 
-Welcome to yet another academic web page. I hope you find this one slightly interesting.
+Outside of research, I enjoy hiking, solving crosswords and collecting random facts and slightly weird ideas.
 
-I am a PhD student at bla doing bla
+Feel free to reach out to discuss research, ideas or anything that you think might interest me!
