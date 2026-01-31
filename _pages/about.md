@@ -14,7 +14,7 @@ profile:
     <p>UK</p>
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -30,4 +30,4 @@ latest_posts:
 # 🚧 Work in Progress
 I'm currently building the site. Come back soon!
 
-You can reach me at MyFirstName.MyLastName (at) ed.ac.uk
+You can reach me at: MyFirstName.MyLastName (at) ed.ac.uk
