@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to yet another academic webpage. <br><small>Hopefully slightly a interesting one</small></br>
+subtitle: Welcome to yet another academic webpage. <br><small>I hope you find this one slightly interesting</small></br>
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
