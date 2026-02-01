@@ -8,10 +8,10 @@ middle_name:
 last_name: Hirsch
 contact_note: Best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Machine learning PhD student at University of Edinburgh.
+  Machine Learning and Signal Processing PhD student at University of Edinburgh.
   Specializing in machine laerning for low-data scenarios.
 footer_text:
-keywords: Lucas Hirsch, signal processing, machine learning, deep learning, university of edinburgh, UoE, university of buenos aires, UBA # add your own keywords or leave empty
+keywords: Lucas Hirsch, signal processing, machine learning, deep learning, AI, ML, PyTorch, MATLAB, university of edinburgh, UoE, university of buenos aires, UBA # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
