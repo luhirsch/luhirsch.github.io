@@ -30,8 +30,8 @@ latest_posts:
 
 I am a Machine Learning PhD student at the University of Edinburgh, supervised by [Mike Davies](https://eng.ed.ac.uk/about/people/professor-michael-e-davies), working on data driven sensing and imaging with a focus on methods that perform well in low-data scenarios.
 
-Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en), developing optical non-destructive testing systems. Before that, I researched [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the University of Buenos Aires.
+Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en), developing optical non-destructive testing systems. Before that, I researched [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the [University of Buenos Aires](https://en.wikipedia.org/wiki/University_of_Buenos_Aires).
 
 Outside of research, I enjoy hiking, solving crosswords and collecting random facts and slightly weird ideas.
 
-Feel free to reach out to discuss research, ideas or anything that you think might interest me!
+Feel free to reach out to discuss research collaborations, ideas or anything that you think might interest me!
