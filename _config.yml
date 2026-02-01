@@ -279,7 +279,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Hirsch]
-  first_name: [Lucas]
+  first_name: [Lucas, L.]
 
   style: apa
   locale: en
