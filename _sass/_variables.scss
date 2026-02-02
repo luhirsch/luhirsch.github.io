@@ -32,6 +32,20 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// My custom Theme Colors
+$forest-green:         #2e7d32;
+$forest-green-light:   #4caf50;
+$charcoal-dark:        #121212; // Deep, almost black background
+$charcoal-grey:        #1e1e1e; // Slightly lighter for cards/code
+$charcoal-accent:      #b0bec5; // Muted blue-grey for text/icons
+
+// Snowy Mountain Palette - Custom theme
+$mountain-night:     #0f172a; // Very dark navy/slate (The night sky)
+$glacier-blue:       #38bdf8; // Bright, cold blue (Ice/Stars)
+$snow-drift:         #f8fafc; // Almost white (Snow highlight)
+$granite-grey:       #1e293b; // Lighter slate (Rock surfaces/Cards)
+
+
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
