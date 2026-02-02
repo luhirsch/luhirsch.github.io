@@ -13,7 +13,7 @@ profile:
     <p>Lucas.Hirsch(at)ed.ac.uk</p>
     <p>Edinburgh, UK</p>
     <p>Buenos Aires, Argentina</p>
-    
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
