@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: #/assets/rendercv/rendercv_output/CV.pdf # /assets/pdf/example_pdf.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description:
+description: More information can be found on my [LinkedIn](https://www.linkedin.com/in/lucas-hirsch-ee/) profile.
 #This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
