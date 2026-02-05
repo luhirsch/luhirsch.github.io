@@ -32,6 +32,6 @@ I am a Machine Learning PhD student at the University of Edinburgh, supervised b
 
 Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en) developing optical [non-destructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) systems. Before that, I researched [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the [University of Buenos Aires](https://en.wikipedia.org/wiki/University_of_Buenos_Aires).
 
-Aside from research I enjoy hiking, solving crosswords and collecting random facts and slightly weird ideas.
+Aside from research I enjoy hiking, solving crosswords, playing bass and collecting random facts and slightly weird ideas. My favorite scientists are [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside).  
 
 Feel free to reach out to discuss research collaborations, ideas or anything that you think might interest me!
