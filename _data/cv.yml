@@ -35,7 +35,7 @@ cv:
           - PhD in Machine Learning
 
       - institution: University of Buenos Aires
-        location: Buenos Aires, Argentina
+        location: Buenos Aires, Arg.
         area: Electronic Engineering, Signal Processing
         studyType: BSc + MSc
         start_date: 2014
@@ -57,7 +57,7 @@ cv:
 
       - company: Tenaris, Applied Physics Group
         position: R&D Engineer
-        location: Buenos Aires, Argentina
+        location: Buenos Aires, Arg.
         start_date: 2021
         end_date: 2025
         summary: R&D at the Applied Physics Group developing optical non-destructive testing systems
@@ -67,13 +67,41 @@ cv:
 
       - company: University of Buenos Aires
         position: Research Assistant
-        location: Buenos Aires, Argentina
+        location: Buenos Aires, Arg.
         start_date: 2021
         end_date: 2021
         summary: Researching the photoacoustic imaging inverse problem.
         highlights:
           - Developed algorithms for **reconstructing images** from (photo)acoustic pressure measurements.
           - Worked on applying **compressed sensing** and sparse reconstruction techniques to reduce the complexity of a photoacoustic tomography system.
+
+    # Hacked my own "Teaching" or "Teaching Experience" section
+    # 1. Went to _includes/cv and copied education.liquid and renamed it teaching.liquid
+    # 2. Went to _layouts/cv.liquid and added the line that says
+    #     elsif section_title == 'Teaching' or section_title == 'Teaching Experience' 
+    #     and then made it include cv/teaching.liquid
+    # This now works like an "Education" section
+    Teaching Experience:
+      - institution: University of Edinburgh
+        location: Edinburgh, UK
+        area: Digital Signal Processing Laboratory
+        studyType: Teaching Assistant
+        start_date: 2026
+        end_date: # ongoing
+      
+      - institution: University of Buenos Aires
+        location: Buenos Aires, Arg.
+        area: Semiconductor Devices
+        studyType: Senior Teaching Assistant
+        start_date: 2017
+        end_date: 2025
+
+      - institution: University of Buenos Aires
+        location: Buenos Aires, Arg.
+        area: Programming and Algorithms II
+        studyType: Senior Teaching Assistant
+        start_date: 2018
+        end_date: 2021
 
     # Teaching: # I need to see how to set up this section
     #   - company: People's Climate March
