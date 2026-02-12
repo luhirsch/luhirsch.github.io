@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "More information can be found on my [LinkedIn](https://www.linkedin.com/in/lucas-hirsch-ee/) profile.",
+          description: "More information can be found on my LinkedIn profile.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
