@@ -24,7 +24,12 @@ span {
 // Separate block for strong
 strong, b {
   font-weight: 700;
-  color: var(--global-text-color);
+  // color: #bae6fd; /* Glacial Glow */
+  // color: #7dd3fc; /* More Intense Glacial Glow */
+  // color: #c084fc; /* Strong Violet */
+  color: var(--global-bold-font-color); /* Bright Lilac */
+  // color: #{v.$aurora-green}
+  
 }
 
 hr {
