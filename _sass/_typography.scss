@@ -17,8 +17,10 @@ em,
 div,
 li,
 span {
-  font-weight: 200;
+  font-weight: 400;
   color: var(--global-text-color);
+  // font-style: normal;
+  font-family: 'Figtree';
 }
 
 // Separate block for strong
@@ -28,8 +30,7 @@ strong, b {
   // color: #7dd3fc; /* More Intense Glacial Glow */
   // color: #c084fc; /* Strong Violet */
   color: var(--global-bold-font-color); /* Bright Lilac */
-  // color: #{v.$aurora-green}
-  
+  // color: #{v.$aurora-green}ab
 }
 
 hr {
