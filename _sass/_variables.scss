@@ -63,3 +63,8 @@ $back-to-top-width: $back-to-top-diameter;
 
 // Max width default
 $max-content-width: 930px !default;
+
+// Typography
+$global-font-family: "Figtree", sans-serif !default;
+$global-font-family-serif: "Figtree", sans-serif !default; // Use Figtree for titles too if you want that clean look
+$global-font-family-monospace: "Monaco", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", monospace !default;

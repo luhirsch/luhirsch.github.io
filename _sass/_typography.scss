@@ -4,6 +4,8 @@
 
 @use "variables" as v;
 
+
+// All of this is grouped
 p,
 h1,
 h2,
@@ -14,8 +16,14 @@ h6,
 em,
 div,
 li,
-span,
-strong {
+span {
+  font-weight: 200;
+  color: var(--global-text-color);
+}
+
+// Separate block for strong
+strong, b {
+  font-weight: 700;
   color: var(--global-text-color);
 }
 
