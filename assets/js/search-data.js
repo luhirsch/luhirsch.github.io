@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-i-ve-started-my-phd-at-the-university-of-edinburgh",
           title: 'I’ve started my PhD at the University of Edinburgh!',
           description: "",
+          section: "News",},{id: "news-i-ve-placed-3rd-overall-and-1st-in-ood-detection-in-the-5th-multi-modal-aerial-view-imagery-challenge-classification-mavic-c-a-technical-report-detailing-the-solution-will-appear-in-the-perception-beyond-the-visible-spectrum-workshop-pbvs-at-cvpr-2026-code-available-on-github",
+          title: 'I’ve placed 3rd overall (and 1st in OOD detection) in the 5th Multi-modal...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
