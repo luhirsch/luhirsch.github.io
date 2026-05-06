@@ -52,7 +52,7 @@ cv:
         end_date:
         summary: PhD student in Machine Learning
         highlights:
-          - Researching **machine learning** methods for data-driven computational sensing and imaging in **data-scarce scenarios**.
+          - Researching **machine learning** methods for data-driven computational sensing and imaging in **limited data**.
           - Emphasis on satellite and SAR imagery.
 
       - company: Tenaris, Applied Physics Group
