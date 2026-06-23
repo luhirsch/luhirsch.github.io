@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-placed-3rd-overall-and-1st-in-ood-detection-in-the-5th-multi-modal-aerial-view-imagery-challenge-classification-mavic-c-a-technical-report-detailing-the-solution-will-appear-in-the-perception-beyond-the-visible-spectrum-workshop-pbvs-at-cvpr-2026-code-available-on-github",
           title: 'I’ve placed 3rd overall (and 1st in OOD detection) in the 5th Multi-modal...',
           description: "",
+          section: "News",},{id: "news-the-paper-for-the-5th-multi-modal-aerial-view-imagery-challenge-classification-mavic-c-has-been-published-detailing-the-competition-results-and-solutions-including-ours-from-team-idcom-we-placed-3rd-overall-and-1st-in-ood-detection-at-the-perception-beyond-the-visible-spectrum-workshop-pbvs-at-cvpr-2026-code-available-on-github",
+          title: 'The paper for the 5th Multi-modal Aerial View Imagery Challenge: Classification (MAVIC-C) has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
