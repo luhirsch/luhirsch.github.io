@@ -120,7 +120,6 @@ cv:
       #   awarder: CVPR PBVS Workshop
       #   # url: https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_5th_Multi-modal_Aerial_View_Imagery_Challenge_Classification_-_PBVS_2026_CVPRW_2026_paper.html
       #   summary: Placed **3rd overall** and **1st in out-of-distribution detection** in the 5th Multi-modal Aerial View Imagery Challenge, out of 63 teams. Paper available [here](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_5th_Multi-modal_Aerial_View_Imagery_Challenge_Classification_-_PBVS_2026_CVPRW_2026_paper.html)
-         
       - title: Leaders of the Future 2024
         authors:
           - "Royal Swedish Academy of Sciences"
@@ -130,8 +129,8 @@ cv:
         summary: Chosen by **Tenaris** as one of thirty young professionals to participate in the 2024 edition of **"Leaders of the Future"**.
 
       - title: 16th International Microelectronics Olympiad Finalist
-        #authors:
-        #  - "Royal Swedish Academy of Sciences"
+        authors:
+         - "Royal Swedish Academy of Sciences"
         date: 2021
         awarder: Synopsys
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
@@ -139,8 +138,8 @@ cv:
 
       - title: 15th International Microelectronics Olympiad Finalist
         awarder: Synopsys
-        #authors:
-        #  - "German Physical Society"
+        authors:
+         - "German Physical Society"
         date: 2020
         summary: One of three Latin American students chosen to represent the region on the 15th edition of the **International Microelectronics Olympiads**.
 
