@@ -84,7 +84,7 @@ cv:
     Teaching Experience:
       - institution: University of Edinburgh
         location: Edinburgh, UK
-        area: Digital Signal Processing Laboratory
+        area: Courses: Digital Signal Processing Laboratory, Machine Learning in Signal Processing, Signals and Communication Systems 3
         studyType: Teaching Assistant
         start_date: 2026
         end_date: # ongoing
@@ -115,6 +115,12 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Awards:
+      - title: 3rd Place — MAVIC-C 2026
+        date: 2026
+        awarder: CVPR PBVS Workshop
+        url: https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_5th_Multi-modal_Aerial_View_Imagery_Challenge_Classification_-_PBVS_2026_CVPRW_2026_paper.html
+        summary: Placed **3rd overall** and **1st in out-of-distribution detection** in the 5th Multi-modal Aerial View Imagery Challenge, out of 63 teams.
+         
       - title: Leaders of the Future 2024
         authors:
           - "Royal Swedish Academy of Sciences"
