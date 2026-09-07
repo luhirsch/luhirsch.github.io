@@ -1,9 +1,9 @@
 cv:
   name: Lucas Hirsch
-  label: # Scientist
+  # label: # Scientist
   email: Lucas.Hirsch (at) ed.ac.uk
   location: Edinburgh, UK
-  image: ""
+  # image: ""
   # Below a professional summary that appears in a different box
   #summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
@@ -13,12 +13,12 @@ cv:
     - network: LinkedIn
       username: lucas-hirsch-ee
 
-  address:
-    street: #2712 Broadway St
-    city: Edinburgh #San Francisco
-    region: UK #California
-    postalCode: #CA 94115
-    countryCode: #US
+  # address:
+  #   street: #2712 Broadway St
+  #   city: Edinburgh #San Francisco
+  #   region: UK #California
+  #   postalCode: #CA 94115
+  #   countryCode: #US
 
   sections:
     Education:
