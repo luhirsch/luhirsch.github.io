@@ -235,6 +235,10 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "googlebb2e136bbe6ebf4f.html"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
