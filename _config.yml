@@ -10,7 +10,7 @@ contact_note: Best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Lucas Hirsch is a machine learning and signal processing PhD researcher at University of Edinburgh, working on representation learning, self-supervised learning, multimodal learning, sensing and imaging.
 footer_text: Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: Lucas Hirsch, signal processing, machine learning, deep learning, AI, ML, PyTorch, MATLAB, university of edinburgh, UoE, university of buenos aires, UBA # add your own keywords or leave empty
+keywords: Lucas Hirsch, signal processing, machine learning, deep learning, representation learning, multimodal learning, cross-modal learning, computational imaging, AI, ML, PyTorch, MATLAB, University of Edinburgh, Universidad de Buenos Aires, UBA # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -68,7 +68,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: https://luhirsch.github.io/assets/img/og_image.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -354,7 +354,7 @@ enable_publication_thumbnails: true
 # These are the defaults
 external_links:
   enabled: true
-  rel: external nofollow noopener
+  rel: external noopener
   target: _blank
   exclude:
 
