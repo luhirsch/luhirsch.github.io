@@ -32,7 +32,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-including-our-solution-team-idcom-for-the-5th-multi-modal-aerial-view-imagery-challenge-classification-mavic-c-has-been-published-code-available-on-github",
           title: 'The paper including our solution (Team IDCOM) for the 5th Multi-modal Aerial View...',
           description: "",
-          section: "News",},{id: "news-cross-modal-knowledge-transfer-for-sar-target-recognition-using-optical-vision-foundation-models-was-accepted-for-presentation-at-spie-sensors-imaging-2026-the-work-explores-how-optical-vision-foundation-models-can-support-sar-target-classification-without-requiring-optical-imagery-at-inference-time-i-ll-be-presenting-it-as-a-poster-on-16-september-2026",
+          section: "News",},{id: "news-cross-modal-knowledge-transfer-for-sar-target-recognition-using-optical-vision-foundation-models-was-accepted-for-presentation-at-spie-sensors-imaging-2026-the-work-explores-how-optical-vision-foundation-models-can-support-sar-target-classification-without-requiring-optical-imagery-at-inference-time-i-ll-be-presenting-it-as-a-poster-on-16-september-2026-paper-available-on-arxiv",
           title: '“Cross-Modal Knowledge Transfer for SAR Target Recognition Using Optical Vision Foundation Models” was...',
           description: "",
           section: "News",},{
