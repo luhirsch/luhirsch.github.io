@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-cross-modal-knowledge-transfer-for-sar-target-recognition-was-accepted-at-spie-sensors-imaging-2026",
           title: 'Our paper on “cross-modal knowledge transfer for SAR target recognition” was accepted at...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-cross-modal-knowledge-transfer-for-sar-target-recognition-received-the-best-student-paper-award-at-spie-sensors-imaging-2026-certificate",
+          title: 'Our paper on cross-modal knowledge transfer for SAR target recognition received the Best...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
