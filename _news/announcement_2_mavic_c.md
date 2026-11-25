@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've placed **3rd overall** (and **1st in OOD detection**) in the 5th [Multi-modal Aerial View Imagery Challenge: Classification](https://www.codabench.org/competitions/12529/#/pages-tab) (MAVIC-C)! 
-
-A technical report detailing the solution will appear in the Perception Beyond the Visible Spectrum workshop (PBVS) at **CVPR 2026**. Code available [on GitHub](https://github.com/luhirsch/mavic-2026-solution).
+I placed **3rd overall** and **1st in OOD detection** in the [MAVIC-C challenge](https://pbvs-workshop.github.io/challenge.html) as Team IDCOM.

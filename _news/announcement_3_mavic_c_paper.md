@@ -5,7 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [paper](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/papers/Ramos_5th_Multi-modal_Aerial_View_Imagery_Challenge_Classification_-_PBVS_2026_CVPRW_2026_paper.pdf) including our solution (**Team IDCOM**) for the 5th Multi-modal Aerial View Imagery Challenge: Classification (**MAVIC-C**) has been published!
-
-Code available [on GitHub](https://github.com/luhirsch/mavic-2026-solution).
-
+The [MAVIC-C challenge paper](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/papers/Ramos_5th_Multi-modal_Aerial_View_Imagery_Challenge_Classification_-_PBVS_2026_CVPRW_2026_paper.pdf) was published at the PBVS workshop at CVPR 2026. Code available [on GitHub](https://github.com/luhirsch/mavic-2026-solution).
