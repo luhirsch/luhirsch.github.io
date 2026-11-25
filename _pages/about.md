@@ -31,7 +31,7 @@ latest_posts:
 
 I am a PhD researcher at the University of Edinburgh, supervised by [Mike Davies](https://eng.ed.ac.uk/about/people/professor-michael-e-davies). 
 
-My research is on representation learning for sensing and imaging, with a focus on self-supervised and cross-modal learning. I study how to learn useful representations from data and how to apply them to different sensing modalities.
+My research is on **representation learning** for sensing and imaging, with a focus on **self-supervised and cross-modal learning**. I study how to learn useful representations from data and how to apply them to different sensing modalities.
 
 Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en) developing optical [non-destructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) systems. Before that, I worked on [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the [University of Buenos Aires](https://en.wikipedia.org/wiki/University_of_Buenos_Aires), where I studied Electrical Engineering.
 
