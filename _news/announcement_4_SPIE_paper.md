@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-“**Cross-Modal Knowledge Transfer for SAR Target Recognition Using Optical Vision Foundation Models**” was accepted for presentation at [SPIE Sensors + Imaging 2026](https://spie.org/conferences-and-exhibitions/sensors-and-imaging). The work explores how optical vision foundation models can support SAR target classification without requiring optical imagery at inference time. I’ll be presenting it as a poster on 16 September 2026.
+“[Cross-Modal Knowledge Transfer for SAR Target Recognition Using Optical Vision Foundation Models](https://arxiv.org/abs/2609.07753)” was accepted for presentation at [SPIE Sensors + Imaging 2026](https://spie.org/conferences-and-exhibitions/sensors-and-imaging)! The work explores how optical vision foundation models can support SAR target classification without requiring optical imagery at inference time. I’ll be presenting it as a poster on 16 September 2026. Paper available on [arXiv](https://arxiv.org/abs/2609.07753).
 
