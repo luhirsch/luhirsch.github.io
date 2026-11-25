@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <br><small>Machine learning and signal processing</small></br>
+subtitle: <small>Machine learning and signal processing</small>
 #subtitle: Welcome to yet another academic webpage. <br><small>I hope you find this one slightly interesting.</small></br>
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
