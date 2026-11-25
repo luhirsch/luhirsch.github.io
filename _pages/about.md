@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to yet another academic webpage. <br><small>I hope you find this one slightly interesting.</small></br>
+subtitle: <br><small>Machine learning and signal processing</small></br>
+#subtitle: Welcome to yet another academic webpage. <br><small>I hope you find this one slightly interesting.</small></br>
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -28,12 +29,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD researcher in machine learning and signal processing at the University of Edinburgh, supervised by [Mike Davies](https://eng.ed.ac.uk/about/people/professor-michael-e-davies). My research focuses on representation learning for sensing and imaging, particularly self-supervised and cross-modal methods that work with limited labelled data.
+I am a PhD researcher at the University of Edinburgh, supervised by [Mike Davies](https://eng.ed.ac.uk/about/people/professor-michael-e-davies). 
 
-Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en) developing optical [non-destructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) systems. Before that, I researched [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the [University of Buenos Aires](https://en.wikipedia.org/wiki/University_of_Buenos_Aires).
+My research is on representation learning for sensing and imaging, with a focus on self-supervised and cross-modal learning. I study how to learn useful representations from data and how to apply them to different sensing modalities.
+
+Previously, I worked as an R&D Engineer at [Tenaris](https://www.tenaris.com/en) developing optical [non-destructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) systems. Before that, I worked on [photoacoustic tomography](https://en.wikipedia.org/wiki/Photoacoustic_imaging) and inverse problems at the [University of Buenos Aires](https://en.wikipedia.org/wiki/University_of_Buenos_Aires), where I studied Electrical Engineering.
 
 You can find my work on my [publications page](/publications/) or [Google Scholar](https://scholar.google.com/citations?user=hSDo6kUAAAAJ&hl=en).
 
-Outside research, I enjoy hiking, solving crosswords, playing bass and collecting random facts and slightly weird ideas. My favorite scientists include [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside).  
-
-Feel free to reach out to discuss research collaborations, ideas or anything that you think might interest me!
+Outside research, I enjoy mountaineering, playing bass and collecting obscure facts. My favorite scientists include [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside).  
