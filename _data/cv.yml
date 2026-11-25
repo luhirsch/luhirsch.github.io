@@ -52,8 +52,8 @@ cv:
         end_date:
         summary: PhD student in Machine Learning
         highlights:
-          - Researching **machine learning** methods for data-driven computational sensing and imaging in **limited data**.
-          - Emphasis on satellite and SAR imagery.
+          - Researching **representation learning** for sensing and imaging, with a focus on **self-supervised and cross-modal learning**.
+          - Studying how to learn useful representations from data and apply them to different sensing modalities.
 
       - company: Tenaris, Applied Physics Group
         position: R&D Engineer
@@ -115,6 +115,13 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Awards:
+      - title: Best Student Paper Award — SPIE Sensors + Imaging 2026
+        date: 2026
+        awarder: SPIE Sensors + Imaging
+        authors:
+          - "SPIE Sensors + Imaging"
+        summary: Received the **Best Student Paper Award** at SPIE Sensors + Imaging 2026 for our paper on [cross-modal knowledge transfer for SAR target recognition](https://arxiv.org/abs/2609.07753).
+
       - title: 3rd Place — MAVIC-C 2026
         date: 2026
         awarder: CVPR PBVS Workshop
