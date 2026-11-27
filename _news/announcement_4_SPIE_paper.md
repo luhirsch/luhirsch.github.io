@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on “[cross-modal knowledge transfer for SAR target recognition](https://arxiv.org/abs/2609.07753)” was accepted at [SPIE Sensors + Imaging 2026](https://spie.org/conferences-and-exhibitions/sensors-and-imaging).
+Our paper on [cross-modal knowledge transfer for SAR target recognition](https://arxiv.org/abs/2609.07753) was accepted at [SPIE Sensors + Imaging 2026](https://spie.org/conferences-and-exhibitions/sensors-and-imaging).
